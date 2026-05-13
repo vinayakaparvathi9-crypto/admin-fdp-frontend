@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduSmart ERP - Frontend
 
 ## Getting Started
@@ -17,3 +18,7 @@ To push this project to a separate GitHub repository:
    git remote add origin <YOUR_GITHUB_FRONTEND_REPO_URL>
    git push -u origin main
    ```
+=======
+# admin-fdp-frontend
+Faculty &amp; Administration Modules 
+>>>>>>> 436604fd98da24767b4edc3fd4ff359852c434d3
